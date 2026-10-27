@@ -27,7 +27,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='Cleaned_InpatientLog' name='textscan.1cg2tdb10a8bxj19b2ph50v94zaw'>
-            <connection class='textscan' directory='/Users/vishnu/Desktop/Vishnu/Projects/Tableau/Healthcare/Analysis/Clean Data' filename='Cleaned_InpatientLog.csv' password='' server='' />
+            <connection class='textscan' directory='' filename='Cleaned_InpatientLog.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <relation type='collection'>
